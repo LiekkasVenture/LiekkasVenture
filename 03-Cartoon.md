@@ -2,6 +2,8 @@
 # Liekkas Venture 3: Cartoon
 2016-07-11 Batur LiekkasVenture
 
+![pokemon](./images/cartoon.jpg "pokemon")
+
 ## Notice
 
 Topic：What is your favorite cartoon?  
