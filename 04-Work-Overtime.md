@@ -3,7 +3,7 @@
 
 As a social man, it's inevitable to work overtime for finishing tasks. Do you have a good or bad experience about working overtime? Let's have a chat on this weekend.
 
-![OT](./images/jiaban.jpg "OT")
+![OT](./images/jiaban.png "OT")
 
 ## Notice
 
