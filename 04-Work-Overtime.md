@@ -35,13 +35,17 @@ Fee：Go Dutch
 Liekkas Venture 3: Cartoon(2016.7.23)
 
 - primate
-- prunk
+- prank
 - penpal
 - warder
 - plateau
 - anime
 - mice
 - immersive
+- documentary film
+- lane
+- special effects
+- constraint
 
 ## Liekkas Venture
 
