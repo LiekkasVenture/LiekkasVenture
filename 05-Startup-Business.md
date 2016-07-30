@@ -31,8 +31,8 @@ Fee：Go Dutch
 
 Liekkas Venture 5:  Work Overtime(2016.7.30)  
 
-- 
--
+- upperclassman
+- performance
 
 ## Liekkas Venture
 
