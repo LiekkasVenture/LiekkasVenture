@@ -33,6 +33,12 @@ Liekkas Venture 5:  Work Overtime(2016.7.30)
 
 - upperclassman
 - performance
+- obsession
+- monopoly
+- poach
+- predecessor
+- sanitation
+- rhinoceros horn
 
 ## Liekkas Venture
 
