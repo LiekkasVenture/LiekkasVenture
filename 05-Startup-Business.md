@@ -20,7 +20,7 @@ Fee：Go Dutch
     Introduce yourself
 2. **Warming up**   
     Talk about latest news, eg.
-	- **Not Decided Yet**(News related to Startup)
+	- [Uber sells Chinese business to Didi Chuxing](http://www.bbc.com/news/36938812)
     - News you care about
 3. **Main topic**  
     Startup Business  
