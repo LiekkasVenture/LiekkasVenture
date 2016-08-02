@@ -1,7 +1,9 @@
 
 # Liekkas Venture 5: Startup Business
 
+This week, Didi anounced that it had acquired Uber China. Didi chuxing, a company was founded in 2012, now becomes the biggest transportation network company in China. In just about 4 years, Didi is comercial successful just like its rival, Uber, which was founded in 2009 and the biggest transportation network company in the world. We are going to talk about startup business this week. Let's discuss this interesting phenomenon together!
 
+![startup-business](./images/startup-business.jpg "Uber and Didi")
 
 ## Notice
 
