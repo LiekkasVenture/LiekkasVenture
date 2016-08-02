@@ -12,7 +12,9 @@ Join：Reply “Startup + Name”
 Fee：Go Dutch
 
 ## Music
+> Paul Simon - Bridge Over Troubled Water
 
+[![Paul Simon - Bridge Over Troubled Water](http://img.youtube.com/vi/q-XCmb6t6Zw/0.jpg)](https://www.youtube.com/watch?v=q-XCmb6t6Zw)
 
 ## Agenda
 
