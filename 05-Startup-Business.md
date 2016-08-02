@@ -8,7 +8,7 @@ This week, Didi anounced that it had acquired Uber China. Didi chuxing, a compan
 ## Notice
 
 Topic：Startup Business  
-Time：19:00-21:00 04/08/2016  
+Time：19:00-21:00 06/08/2016  
 Location：**Not Decided Yet**  
 Join：Reply “Startup + Name”   
 Fee：Go Dutch
