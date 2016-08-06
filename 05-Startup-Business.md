@@ -9,7 +9,7 @@ This week, Didi anounced that it had acquired Uber China. Didi chuxing, a compan
 
 Topic：Startup Business  
 Time：19:00-21:00 06/08/2016  
-Location：**Not Decided Yet**  
+Location：逸塔  
 Join：Reply “Startup + Name”   
 Fee：Go Dutch
 
@@ -25,6 +25,7 @@ Fee：Go Dutch
 2. **Warming up**   
     Talk about latest news, eg.
 	- [Uber sells Chinese business to Didi Chuxing](http://www.bbc.com/news/36938812)
+	- [Airbnb files to raise $850m at $30b valuation](https://github.com/LiekkasVenture/LiekkasVenture/blob/master/articles/airbnb-files-to-raise-850-million-at-30-billion-valuation.md)
     - News you care about
 3. **Main topic**  
     Startup Business  
