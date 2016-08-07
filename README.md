@@ -1,5 +1,7 @@
 # LiekkasVenture
 
+[![Sofia Jannok - Liekkas](http://img.youtube.com/vi/b9URLNYDt48/0.jpg)](https://www.youtube.com/watch?v=b9URLNYDt48)
+
 Sammy:  
 ```
     Liekkas，一首来自北欧萨米族的歌曲，寓意北极光的征兆。
