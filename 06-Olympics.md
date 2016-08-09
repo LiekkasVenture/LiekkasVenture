@@ -3,7 +3,7 @@
 
 Rio Olympics starts from 05 to 21 August. The best Athletes  around the world are completing for the greatest honor. Are you a sports fan? How many gold medals can China get? Which sport do you care about the most? Come to join us to talk!
 
-![Olympics](./images/Olympics.jpg "Olympics")
+![Olympics](./images/rio-olympics.jpg "Rio Olympics")
 
 ## Notice
 
