@@ -41,6 +41,14 @@ Liekkas Venture 5:  Startup Business(2016.8.7)
 - rivalry
 - burgeon
 - subsidise
+- allowance
+- acumen
+- teapot
+- real name authentication
+- last edition
+- intership
+- equity
+- IPO(Initial Public Offering)
 
 ## Liekkas Venture
 
