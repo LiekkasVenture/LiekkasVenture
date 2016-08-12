@@ -14,6 +14,10 @@ Join：Reply “Olympics + Name”
 Fee：Go Dutch
 
 ## Music
+
+> Shakira - Try Everything (Rio 2016 Summer Olympic Games Theme Song)
+
+[![Paul Simon - Bridge Over Troubled Water](http://img.youtube.com/vi/IBnBWPpukog/0.jpg)](https://www.youtube.com/watch?v=IBnBWPpukog)
 	
 
 ## Agenda
@@ -22,7 +26,8 @@ Fee：Go Dutch
     Introduce yourself
 2. **Warming up**   
     Talk about latest news, eg.
-	- *not decided yet*
+	- [Chinese swimmer Fu Yuanhui wins public's heart for rare candor](https://github.com/LiekkasVenture/LiekkasVenture/blob/master/articles/chinese-swimmer-fu-yuanhui-wins-publics-heart-rare-candor.md)
+	- [Michael Phelps Wins 22nd Gold Medal as U.S. Swimmers Break New Ground in Rio](https://github.com/LiekkasVenture/LiekkasVenture/blob/master/articles/michael-phelps-rio-2016-olympics-gold-medals-lochte.md)
     - News you care about
 3. **Main topic**  
 	Olympics
