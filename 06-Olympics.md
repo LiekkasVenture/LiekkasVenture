@@ -1,7 +1,7 @@
 
 # Liekkas Venture 6: Olympics
 
-Rio Olympics starts from 05 to 21 August. The best Athletes  around the world are completing for the greatest honor. Are you a sports fan? How many gold medals can China get? Which sport do you care about the most? Come to join us to talk!
+Rio Olympics starts from 05 to 21 August, 2016. The best athletes around the world are competing for the greatest honor. Are you a sports fan? How many gold medals can China get? Which sport do you care about the most? Come to join us to talk!
 
 ![Olympics](./images/rio-olympics.jpg "Rio Olympics")
 
