@@ -9,7 +9,7 @@ Rio Olympics starts from 05 to 21 August, 2016. The best athletes around the wor
 
 Topic：Olympics  
 Time：19:00-21:00 14/08/2016  
-Location：*not decided yet*  
+Location：逸塔  
 Join：Reply “Olympics + Name”   
 Fee：Go Dutch
 
