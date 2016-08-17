@@ -25,7 +25,7 @@ Fee：Go Dutch
     Introduce yourself
 2. **Warming up**   
     Talk about latest news, eg.
-	-
+	- [Why a celebrity divorce has Chinese social media buzzing](http://www.bbc.com/news/world-asia-china-37091685)
 	-
     - News you care about
 3. **Main topic**  
