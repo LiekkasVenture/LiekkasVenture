@@ -1,6 +1,8 @@
 
 # Liekkas Venture 6: Chinese Internet Company
 
+Internet is everywhere in this modern society. We use wechat to communicate, buy things on taobao, search information on baidu. Baidu, Alilibaba and Tencent are well known across China, they are short for "BAT". This week, we are going to talk about Chinese Internet company. What do you think of these companies? Do you think Chinese isolated Internet environment is good or bad for us? How can we make good use of Internet? Come to join us!
+
 
 ![bat](./images/bat.jpg "BAT")
 
@@ -14,9 +16,9 @@ Fee：Go Dutch
 
 ## Music
 
-> Not decide yet
+> Bob Dylan - Blowing in the wind 
 
-[![Paul Simon - Bridge Over Troubled Water](http://img.youtube.com/vi/IBnBWPpukog/0.jpg)](https://www.youtube.com/watch?v=IBnBWPpukog)
+[![Bob Dylan - Blowing in the wind](http://img.youtube.com/vi/vWwgrjjIMXA/0.jpg)](https://www.youtube.com/watch?v=vWwgrjjIMXA)
 	
 
 ## Agenda
@@ -26,7 +28,7 @@ Fee：Go Dutch
 2. **Warming up**   
     Talk about latest news, eg.
 	- [Why a celebrity divorce has Chinese social media buzzing](http://www.bbc.com/news/world-asia-china-37091685)
-	-
+	- [Rio Olympics 2016: Usain Bolt wins ninth Olympic gold as Jamaica take 4x100m relay](http://www.bbc.com/sport/olympics/36691185)
     - News you care about
 3. **Main topic**  
 	Chinese Internet Company
