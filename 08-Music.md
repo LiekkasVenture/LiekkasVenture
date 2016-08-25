@@ -1,6 +1,10 @@
 
 # Liekkas Venture 8: Music 
 
+The topic of this week is music! Are you a music fan?
+Do you like classic music or popular music? 
+Do you like jazz?
+Which genre of music do you like best? Come to share with us your favourite songs!
 
 
 ![img desc](/image/path "img desc")
