@@ -1,5 +1,5 @@
 
-# Liekkas Venture 6: Chinese Internet Company
+# Liekkas Venture 7: Chinese Internet Company
 
 Internet is everywhere in this modern society. We use wechat to communicate, buy things on taobao, search information on baidu. Baidu, Alilibaba and Tencent are well known across China, they are short for "BAT". This week, we are going to talk about Chinese Internet company. What do you think of these companies? Do you think Chinese isolated Internet environment is good or bad for us? How can we make good use of Internet? Come to join us!
 
