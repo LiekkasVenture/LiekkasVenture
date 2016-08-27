@@ -29,8 +29,8 @@ Fee：Go Dutch
     Introduce yourself
 2. **Warming up**   
     Talk about latest news, eg.
-	- [News 1...]()
-	- [News 2...]()
+	- [Why scientists think your boss should play music while you work](https://www.washingtonpost.com/news/wonk/wp/2016/08/26/why-scientists-think-your-boss-should-play-music-while-you-work/)
+	- [What it's really like to work at Google, the best company to work for in the US](http://www.businessinsider.com/google-best-things-about-working-at-2016-8)
     - News you care about
 3. **Main topic**  
 	Music
