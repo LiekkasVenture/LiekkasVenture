@@ -3,11 +3,10 @@
 
 The topic of this week is music! Are you a music fan?
 Do you like classic music or popular music? 
-Do you like jazz?
 Which genre of music do you like best? Come to share with us your favourite songs!
 
 
-![img desc](/image/path "img desc")
+![music](./images/music.jpg "music")
 
 ## Notice
 
@@ -19,9 +18,9 @@ Fee：Go Dutch
 
 ## Music
 
-> Bob Dylan - Blowing in the wind 
+> Marit Larsen - If a Song Could Get Me You
 
-[![Bob Dylan - Blowing in the wind](http://img.youtube.com/vi/vWwgrjjIMXA/0.jpg)](https://www.youtube.com/watch?v=vWwgrjjIMXA)
+[![If a Song Could Get Me You](http://img.youtube.com/vi/Qje3U2eRuQ0/0.jpg)](https://www.youtube.com/watch?v=Qje3U2eRuQ0)
 	
 
 ## Agenda
