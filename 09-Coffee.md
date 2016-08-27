@@ -2,9 +2,12 @@
 
 # Liekkas Venture 8: Coffee
 
-(introduce topic...)
+What do you know about Coffee?
+Do you like tea over coffee?
+What's coffee role in modern socity? 
+Let's talk about coffee this week! Come to join us!
 
-![img desc](/image/path "img desc")
+![coffee](./images/coffee.jpg "coffee")
 
 ## Notice
 
@@ -16,9 +19,9 @@ Fee：Go Dutch
 
 ## Music
 
-> Bob Dylan - Blowing in the wind 
+> Sofia Jannok - Liekkas 
 
-[![Bob Dylan - Blowing in the wind](http://img.youtube.com/vi/vWwgrjjIMXA/0.jpg)](https://www.youtube.com/watch?v=vWwgrjjIMXA)
+[![Sofia Jannok - Liekkas](http://img.youtube.com/vi/b9URLNYDt48/0.jpg)](https://www.youtube.com/watch?v=b9URLNYDt48)
 	
 
 ## Agenda

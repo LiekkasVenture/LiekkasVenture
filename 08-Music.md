@@ -3,7 +3,7 @@
 
 The topic of this week is music! Are you a music fan?
 Do you like classic music or popular music? 
-Which genre of music do you like best? Come to share with us your favourite songs!
+Which genre of music do you like the best? Come to share with us your favourite songs!
 
 
 ![music](./images/music.jpg "music")
