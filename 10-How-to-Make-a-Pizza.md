@@ -1,16 +1,16 @@
 
-# Liekkas Venture 8: Topic 
+# Liekkas Venture 10: How to Make a Pizza
 
 (introduce topic...)
 
-![desc](./images/desc.jpg "desc")
+![Pizza](./images/pizza.jpg "pizza")
 
 ## Notice
 
-Topic：topic..
-Time：19:00-21:00 28/08/2016  
+Topic：How to Make a Pizza  
+Time：19:00-21:00 10/09/2016  
 Location：*not decide yet*  
-Join：Reply “Topic + Name”   
+Join：Reply “Pizza + Name”   
 Fee：Go Dutch
 
 ## Music
@@ -30,13 +30,13 @@ Fee：Go Dutch
 	- [News 2...]()
     - News you care about
 3. **Main topic**  
-	Topic
+	How to Make a Pizza
 4. **Summary**   
     Disscuss future topic.
 
 ## Vocabulary Review
 
-Liekkas Venture 6: Previous Topic(2016.8.14)  
+Liekkas Venture 09: Coffee(2016.09.03)  
 
 
 ## Liekkas Venture
