@@ -30,7 +30,7 @@ Fee：Go Dutch
     Introduce yourself
 2. **Warming up**   
     Talk about latest news, eg.
-	- [News 1...]()
+	- [China’s richest man, Wanda Group CEO Wang Jianlin, has declared war on Disneyland](http://qz.com/768740/chinas-richest-man-wanda-group-ceo-wang-jianlin-has-declared-war-on-disneyland/)
 	- [News 2...]()
     - News you care about
 3. **Main topic**  
