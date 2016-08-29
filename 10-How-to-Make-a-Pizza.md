@@ -15,9 +15,9 @@ Fee：Go Dutch
 
 ## Music
 
-> Bob Dylan - Blowing in the wind 
+> Sofia Jannok - Liekkas 
 
-[![Bob Dylan - Blowing in the wind](http://img.youtube.com/vi/vWwgrjjIMXA/0.jpg)](https://www.youtube.com/watch?v=vWwgrjjIMXA)
+[![Sofia Jannok - Liekkas](http://img.youtube.com/vi/b9URLNYDt48/0.jpg)](https://www.youtube.com/watch?v=b9URLNYDt48)
 	
 
 ## Agenda
