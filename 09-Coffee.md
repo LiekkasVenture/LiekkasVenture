@@ -42,6 +42,13 @@ Fee：Go Dutch
 
 Liekkas Venture 8: Music(2016.8.28)  
 
+- idol
+- mezzo
+- cover version
+- concert
+- fans
+- folk song
+- steamed bread
 
 ## Liekkas Venture
 
