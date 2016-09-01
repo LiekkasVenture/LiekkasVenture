@@ -19,9 +19,9 @@ Fee：Go Dutch
 
 ## Music
 
-> Sofia Jannok - Liekkas 
+> James Blunt - You're Beautiful  
 
-[![Sofia Jannok - Liekkas](http://img.youtube.com/vi/b9URLNYDt48/0.jpg)](https://www.youtube.com/watch?v=b9URLNYDt48)
+[![James Blunt - You're Beautiful](http://img.youtube.com/vi/oofSnsGkops/0.jpg)](https://www.youtube.com/watch?v=oofSnsGkops)
 	
 
 ## Agenda
