@@ -1,7 +1,7 @@
 
 # Liekkas Venture 10: How to Make a Pizza
 
-(introduce topic...)
+Are you a gourmet? Besides Chinese food, which countrie's cate do you like best? We are going to discuss western food and learn how to make a pizza this week! Come to join us!
 
 ![Pizza](./images/pizza.jpg "pizza")
 
