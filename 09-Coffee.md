@@ -4,7 +4,7 @@
 
 What do you know about Coffee?
 Do you like tea over coffee?
-What's coffee role in modern socity? 
+What's coffee role in modern society? 
 Let's talk about coffee this week! Come to join us!
 
 ![coffee](./images/coffee.jpg "coffee")
