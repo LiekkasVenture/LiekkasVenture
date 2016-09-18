@@ -31,7 +31,7 @@ Fee：Go Dutch
 2. **Warming up**   
     Talk about latest news, eg.
 	- [China’s richest man, Wanda Group CEO Wang Jianlin, has declared war on Disneyland](http://qz.com/768740/chinas-richest-man-wanda-group-ceo-wang-jianlin-has-declared-war-on-disneyland/)
-	- [Google Takes on Uber With New Ride-Share Service](http://www.wsj.com/articles/google-takes-on-uber-with-new-ride-share-service-1472584235)
+	- [Over the Moon: Alibaba Engineers Fired for Mooncake Hacking](http://blogs.wsj.com/chinarealtime/2016/09/14/over-the-moon-alibaba-engineers-fired-for-mooncake-hacking/)
     - News you care about
 3. **Main topic**  
 	Coffee
