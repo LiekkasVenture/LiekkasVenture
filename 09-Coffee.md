@@ -12,7 +12,7 @@ Let's talk about coffee this week! Come to join us!
 ## Notice
 
 Topic：Coffee  
-Time：19:00-21:00 04/09/2016  
+Time：16:00-21:00 25/09/2016  
 Location：*not decide yet*  
 Join：Reply “Coffee + Name”   
 Fee：Go Dutch
