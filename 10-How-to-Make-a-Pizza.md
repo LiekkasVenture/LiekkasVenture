@@ -15,7 +15,7 @@ Fee：Go Dutch
 
 ## Music
 
-> Sofia Jannok - Liekkas 
+> Céline Dion - A New Day Has Come
 
 [![Céline Dion - A New Day Has Come](http://img.youtube.com/vi/NaGLVS5b_ZY/0.jpg)](https://www.youtube.com/watch?v=NaGLVS5b_ZY)
 	
@@ -37,7 +37,8 @@ Fee：Go Dutch
 ## Vocabulary Review
 
 Liekkas Venture 09: Coffee(2016.09.03)  
-
+- instant coffee
+- episode
 
 ## Liekkas Venture
 
