@@ -17,7 +17,7 @@ Fee：Go Dutch
 
 > Sofia Jannok - Liekkas 
 
-[![Sofia Jannok - Liekkas](http://img.youtube.com/vi/b9URLNYDt48/0.jpg)](https://www.youtube.com/watch?v=b9URLNYDt48)
+[![Céline Dion - A New Day Has Come](http://img.youtube.com/vi/NaGLVS5b_ZY/0.jpg)](https://www.youtube.com/watch?v=NaGLVS5b_ZY)
 	
 
 ## Agenda
@@ -26,8 +26,8 @@ Fee：Go Dutch
     Introduce yourself
 2. **Warming up**   
     Talk about latest news, eg.
-	- [News 1...]()
-	- [News 2...]()
+	- [Brad Pitt 'saddened' by Angelina Jolie divorce](http://www.bbc.com/news/entertainment-arts-37427605)
+	- [Google's 18th Birthday](https://www.google.com/doodles/googles-18th-birthday)
     - News you care about
 3. **Main topic**  
 	How to Make a Pizza
