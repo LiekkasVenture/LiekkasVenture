@@ -1,7 +1,9 @@
 
 # Liekkas Venture 11: Wedding
 
-Wedding...
+> I, XXX  take you  XXX, to be my lawfully wedded (husband/wife), to have and to hold, from this day forward, for better, for worse, for richer, for poorer, in sickness and in health, until death do us part.
+
+Almost everyone dreams about happy marriage. After vowing,  it means the bride and bridegroom begin their new life, they are supposed to support each other, better or worse, richer or poorer, sickness or health, until death.
 
 ![wedding](./images/wedding.jpg "wedding")
 
