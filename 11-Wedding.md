@@ -3,7 +3,7 @@
 
 Wedding...
 
-![desc](./images/desc.jpg "desc")
+![wedding](./images/wedding.jpg "wedding")
 
 ## Notice
 
@@ -15,9 +15,9 @@ Fee：Go Dutch
 
 ## Music
 
-> Sofia Jannok - Liekkas 
+> Bob Dylan - Like a Rolling Stone
 
-[![Sofia Jannok - Liekkas](http://img.youtube.com/vi/b9URLNYDt48/0.jpg)](https://www.youtube.com/watch?v=b9URLNYDt48)
+[![Bob Dylan - Like a Rolling Stone](http://img.youtube.com/vi/dxLMr784l0Q/0.jpg)](https://www.youtube.com/watch?v=dxLMr784l0Q)
 	
 
 ## Agenda
@@ -26,11 +26,11 @@ Fee：Go Dutch
     Introduce yourself
 2. **Warming up**   
     Talk about latest news, eg.
-	- [News 1...]()
-	- [News 2...]()
+	- [China's Shenzhou 11 blasts off on space station mission](http://www.bbc.com/news/world-asia-china-37670842)
+	- [Google News launches fact check label](http://www.bbc.com/news/technology-37657524)
     - News you care about
 3. **Main topic**  
-	Topic
+	Wedding
 4. **Summary**   
     Disscuss future topic.
 
