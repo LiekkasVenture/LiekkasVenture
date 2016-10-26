@@ -1,13 +1,15 @@
 
 # Liekkas Venture 12: Travel
 
-Travel
-
+As the saying goes, "You can either travel or read, and either your body or soul must be on the way."
+Have you ever thought about Why people are so keen on travel?
+This sunday I wanna invite you to talk about travel at Mangrove forest.
+We could sit on the lawn and enjoy seaside scenary.
 ![travel](./images/travel.jpg "travel")
 
 ## Notice
 
-Topic：Travel
+Topic：Travel 
 Time：15:00-17:00 30/10/2016  
 Location：Mangrove forest 
 Join：Reply “Travel + Name”   
