@@ -8,36 +8,41 @@ Travel
 ## Notice
 
 Topic：Travel
-Time：  
-Location：*not decide yet*  
+Time：15:00-17:00 30/10/2016  
+Location：Mangrove forest 
 Join：Reply “Travel + Name”   
 Fee：Go Dutch
 
-## Music
-
-> Marriage D’Amour - Richard Clayderman
-
-[![Marriage D’Amour - Richard Clayderman](http://img.youtube.com/vi/YCl-0lu0vHM/0.jpg)](https://www.youtube.com/watch?v=YCl-0lu0vHM)
-	
 
 ## Agenda
 
 1. **Break the ice**  
-    Introduce yourself
+    Introduce yourself.
 2. **Warming up**   
-    Talk about latest news, eg.
-	- [News..](http://www.bbc.com/news/world-asia-china-37670842)
-	- [News..](http://www.bbc.com/news/technology-37657524)
-    - News you care about
+    Guess the word.
 3. **Main topic**  
-	Travel 
+    Travel.
+    . How do you plan your travel?
+    . good or bad experience during travel?
+    . What's your feelings after travel?
+    ......
 4. **Summary**   
     Disscuss future topic.
 
 ## Vocabulary Review
 
-Liekkas Venture 11: Wedding(2016.09.30)  
-
+Liekkas Venture 11: Wedding(2016.10.23)  
+- long jump
+- spacecraft/spaceship
+- bridesmaid
+- groomsman
+- sedan
+- legal holiday
+- Confucianism
+- hurricane
+- clockwise
+- firsttier city
+- Taoism
 
 ## Liekkas Venture
 
