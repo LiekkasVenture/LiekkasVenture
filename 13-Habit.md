@@ -5,7 +5,8 @@ Even a little habit makes a big difference.
 I'd like to recommend a well-known book about habit: 
 The Power of Habit: Why We Do What We Do in Life and Business?
 It explores the science behind habit creation and reformation.
-Welcome to join us!
+We're going to talk about habit tomorrow. Welcome to join us!
+
 ![habit](./images/habit.jpg "habit")
 
 ## Notice
