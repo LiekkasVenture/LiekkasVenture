@@ -6,7 +6,7 @@
 
 ## Notice
 
-Topic：Habit 
+Topic：Habit
 Time：15:00-17:00 12/11/2016  
 Location：Shenzhen University
 Join：Reply “Habit + Name”   
