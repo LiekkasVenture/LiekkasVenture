@@ -1,15 +1,19 @@
 
 # Liekkas Venture 13: Habit
 
-
+Even a little habit makes a big difference.
+I'd like to recommend a well-known book about habit: 
+The Power of Habit: Why We Do What We Do in Life and Business?
+It explores the science behind habit creation and reformation.
+Welcome to join us!
 ![habit](./images/habit.jpg "habit")
 
 ## Notice
 
-Topic：Habit
-Time：15:00-17:00 12/11/2016  
-Location：Shenzhen University
-Join：Reply “Habit + Name”   
+Topic：Habit 
+Time：15:00-17:00 12/11/2016 
+Location：Shenzhen University 
+Join：Reply “Habit + Name” 
 Fee：Go Dutch
 
 ## Agenda
@@ -19,10 +23,10 @@ Fee：Go Dutch
 2. **Warming up**   
     Guess the word.
 3. **Main topic**  
-    Habit.
-    . What are your habits?
-    . How do you develop them?
-    . How do they affect your life?
+    Habit. 
+    . What are your habits? 
+    . How do you develop them? 
+    . How do they affect your life? 
     ......
 4. **Summary**   
     Disscuss future topic.
