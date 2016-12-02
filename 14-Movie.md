@@ -13,10 +13,10 @@ Let's talk about it this weekend!
 
 ## Notice
 
-Topic：Movie
-Time：15:00-17:00 04/12/2016 
-Location：Mangrove 
-Join：Reply “Movie + Name” 
+Topic：Movie  
+Time：15:00-17:00 04/12/2016   
+Location：Mangrove  
+Join：Reply “Movie + Name”  
 Fee：Go Dutch
 
 ## Agenda
