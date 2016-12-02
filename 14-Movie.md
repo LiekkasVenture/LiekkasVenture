@@ -3,10 +3,10 @@
 
 Movie is a popular art. People enjoy movies not only for amusement, 
 but also because they can offer us unique experience and let us think.
-Which genre of movies is your favorite?
-Do you like watching movies at the cinema or at home?
-What do you think of Hollywood and domestic movies?
-Let's talk about it this weekend!
+Which genre of movies is your favorite?  
+Do you like watching movies at the cinema or at home?  
+What do you think of Hollywood and domestic movies?  
+Let's talk about it this weekend! 
 
 
 ![habit](./images/movie.png "movie")
